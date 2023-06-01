@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)
 <h1 align="center">Hi 👋, I'm Shahriar Rahman</h1>
-<h3 align="center">Want to be a Data scientist from Bangladesh</h3>
+<h3 align="center">Data scientist,Data Analyst from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://codevitalive.files.wordpress.com/2022/10/be0ba-program.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar009&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar009" /> </p>
