@@ -10,7 +10,7 @@
 <a href="mailto:shahriarnobel009@gmail.com"target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Email" height="40" width="40" /></a>  
 <a href="https://www.linkedin.com/in/shahriar-rahman-27614925a/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahriar rahman" height="30" width="40" /></a>
 
-<a href=https:"https://www.facebook.com/profile.php?id=100006860386772&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shahriar Nobel" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100006860386772&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shahriar Nobel" height="30" width="40" /></a>
 
 
 
