@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋,Greetings, shahriarrahman </h1>
 <h3 align="center">I am a Data Analyst with a strong background in Engineering, and I am used to handling a variety of data pipelines and databases, including unstructured ones. I have prototyped four products, and I am looking for a product-oriented role (also consulting), possibly building from scratch.”</h3>
 
-- 🌱 I am searching for an opportunity as a junior Data Anlyst.
+- 🌱 I am searching for an opportunity as a junior Data Anlyst.https://docs.google.com/document/d/1yaJxiS5C9wuO-XVidvGkvuC5ImFfX523BtXpCEC6AH4/edit
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1KjKE_BJI-flPQAZFbTZxtAqQ5ziyf6Ip/view?usp=drive_link)
+- 📄 Know about my experiences (https://docs.google.com/document/d/1yaJxiS5C9wuO-XVidvGkvuC5ImFfX523BtXpCEC6AH4/edit?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
