@@ -7,10 +7,10 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="mailto:shahriarnobel009@gmail.com" target="blank"><img align="center" src="https://github.com/Shahriar Rahman/Shahriar Rahman/blob/main/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" alt="Email" height="40" width="40" /></a>  
+<a href="mailto:shahriarnobel009@gmail.com" target="blank"><img align="center" src="https://github.com/Rayhan Uddin/Rayhan Uddin/blob/main/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" alt="Email" height="40" width="40" /></a>  
 <a href="https://www.linkedin.com/in/shahriar-rahman-27614925a/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahriar rahman" height="30" width="40" /></a>
 
-  <a href="https://www.linkedin.com/in/shahriar-rahman-27614925a/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shahriar Nobel" height="30" width="40" /></a>
+  <a href=https:"//www.facebook.com/profile.php?id=100006860386772"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shahriar Nobel" height="30" width="40" /></a>
 
 
 
