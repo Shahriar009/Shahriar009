@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,Greetings, shahriar Rahman </h1>
+<h1 align="center">Hi 👋,Greetings, Shahriar Rahman </h1>
 <h3 align="center">I am a Data Analyst with a strong background in Engineering, and I am used to handling a variety of data pipelines and databases, including unstructured ones. I have prototyped four products, and I am looking for a product-oriented role (also consulting), possibly building from scratch.”</h3>
 
 - 🌱 I am searching for an opportunity as a junior Data Anlyst.
